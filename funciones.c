@@ -14,7 +14,7 @@ centro: [12][40]*/
 marco teorico:  bibliotecas que usamos, math.h
 describir problema: funciones en consola
 metodologia de trabbajo: replit, DISCOR*/
-
+//holaaaaa
 void printmatriz(char n[Y][X]) // funcion para imprimir matriz
 {
     int i, j;
